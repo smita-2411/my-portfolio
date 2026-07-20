@@ -39,7 +39,7 @@ Add screenshots of my portfolio in output folder.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/smita-jadhav841-lang/my-portfolio.git
+git clone https://github.com/smita-2411/my-portfolio.git
 ```
 
 2. Open the project folder.
@@ -53,7 +53,7 @@ portfolio/
 │── index.html
 │── style.css
 │── script.js
-│── images/
+│── files ,output
 └── README.md
 ```
 
@@ -61,7 +61,7 @@ portfolio/
 
 - **Name:** Smita Jadhav
 - **Email:** jadhavsmita841@gmail.com
-- **GitHub:** https://github.com/jadhavsmita841
+- **GitHub:** https://github.com/smita-2411
 - **LinkedIn:** https://www.linkedin.com/in/smita2411/
 
 ## ⭐ If you like this project
